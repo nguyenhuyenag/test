@@ -1,0 +1,11 @@
+{
+    "version": "1.2",
+    "release_date": "2025-10-08",
+    "change_log": [
+        "Thêm tính năng backup tự động",
+        "Sửa lỗi bảo mật quan trọng",
+        "Hỗ trợ MySQL 8.1",
+        "Giao diện mới cho dashboard"
+    ],
+    "url_download": "https://autoupdate.ts24.com.vn/taxonline/download/private_cloud.jar"
+}
