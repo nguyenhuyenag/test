@@ -7,5 +7,5 @@
         "Hỗ trợ MySQL 8.1",
         "Giao diện mới cho dashboard"
     ],
-    "url_download": "https://autoupdate.ts24.com.vn/taxonline/download/private_cloud.jar"
+    "url_download": "https://raw.githubusercontent.com/nguyenhuyenag/test/refs/heads/main/private_cloud_api.jar"
 }
