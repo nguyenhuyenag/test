@@ -4,7 +4,7 @@
     "change_log": [
         "Thêm tính năng backup tự động",
         "Sửa lỗi bảo mật quan trọng",
-        "Hỗ trợ MySQL 9.1",
+        "Hỗ trợ MySQL 10.1",
         "Giao diện mới cho dashboard"
     ],
     "url_download": "https://raw.githubusercontent.com/nguyenhuyenag/test/refs/heads/main/private_cloud_api.jar"
