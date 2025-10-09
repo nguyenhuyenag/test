@@ -5,7 +5,8 @@
         "Thêm tính năng backup tự động",
         "Sửa lỗi bảo mật quan trọng",
         "Hỗ trợ MySQL 10.1",
-        "Giao diện mới cho dashboard"
+        "Giao diện mới cho dashboard",
+		"abc",
     ],
     "url_download": "https://raw.githubusercontent.com/nguyenhuyenag/test/refs/heads/main/private_cloud_api.jar"
 }
