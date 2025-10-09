@@ -8,5 +8,5 @@
         "Giao diện mới cho dashboard",
 		"abc",
     ],
-    "url_download": "https://raw.githubusercontent.com/nguyenhuyenag/test/refs/heads/main/private_cloud_api.jar"
+    "download_url": "https://raw.githubusercontent.com/nguyenhuyenag/test/refs/heads/main/private_cloud_api.jar"
 }
