@@ -1,0 +1,11 @@
+{
+  "status_version": "1.1",
+  "private_cloud_version": "1.1",
+  "release_date": "2025-10-08",
+  "change_log": [
+    "Thêm tính năng backup tự động",
+    "Sửa lỗi bảo mật quan trọng",
+    "Hỗ trợ MySQL 9.1",
+    "Giao diện mới cho dashboard"
+  ]
+}
