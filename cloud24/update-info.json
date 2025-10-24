@@ -1,6 +1,6 @@
 {
-  "status_version": "2.1",
-  "private_cloud_version": "2.1",
+  "status_version": "1.1",
+  "private_cloud_version": "1.1",
   "release_date": "2025-10-08",
   "change_log": [
     "Thêm tính năng backup tự động",
